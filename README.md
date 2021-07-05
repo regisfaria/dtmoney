@@ -8,6 +8,8 @@ It's a simple spendings tracker web version. You can register your incomes, outc
 
 ## Installation & Running  
 
+You will need to have JS at latest stable version and one of it's package managers(yarn or npm).
+
 First run:
 
 ```shell
