@@ -22,12 +22,14 @@ Then you can run the app with:
 yarn start OR npm run start
 ```
 
-You can access the app in the address: [http://localhost:3000](http://localhost:3000). 
+You can access the app in the address: [http://localhost:3000](http://localhost:3000)
+
 ***Make sure this port is available.***
 
 ## Contact
 
-**Email: regisprogramming@gmail.com**
+Email:**regisprogramming@gmail.com**
+
 [LinkedIn](https://www.linkedin.com/in/regissfaria/)
 [GitHub](https://github.com/regisfaria)
 [GitLab](https://gitlab.com/regisfaria)
