@@ -1,6 +1,5 @@
 {
   "name": "dtmoney",
-  "homepage": "http://regisfaria.github.io/dtmoney",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,13 +23,11 @@
     "@types/react-dom": "^17.0.0",
     "@types/react-modal": "^3.12.0",
     "@types/styled-components": "^5.1.10",
-    "gh-pages": "^3.2.3",
     "typescript": "^4.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "react-scripts build",
-    "build": "gh-pages -d build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
